@@ -1,2 +1,2 @@
-# catalystbot2.github.io
-lol
+Catalyst Bot
+Official
